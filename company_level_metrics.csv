@@ -1,0 +1,394 @@
+﻿fund_name,Company,company_geography,sector_level_3,record_date,nav_at_rd,investment_date,at_entry_ev,at_entry_ebidta,at_rd_ev,at_rd_ebidta
+Fund III,Company 1,United States of America,"Electronic Equipment, Instruments & Components",30/09/2023,425.2975998,01/06/2021,560.45,84.48,1042.8,139.44
+Fund III,Company 1,United States of America,"Electronic Equipment, Instruments & Components",30/06/2023,313.6543769,01/06/2021,560.45,84.48,855.84,117.96
+Fund III,Company 1,United States of America,"Electronic Equipment, Instruments & Components",31/03/2023,274.930495,01/06/2021,560.45,84.48,775.8,112.8
+Fund III,Company 1,United States of America,"Electronic Equipment, Instruments & Components",31/12/2022,240.9023642,01/06/2021,560.45,84.48,740.88,105.6
+Fund III,Company 1,United States of America,"Electronic Equipment, Instruments & Components",30/09/2022,216.5732727,01/06/2021,560.45,84.48,711.12,97.08
+Fund III,Company 1,United States of America,"Electronic Equipment, Instruments & Components",30/06/2022,223.9568922,01/06/2021,560.45,84.48,676.32,97.8
+Fund III,Company 1,United States of America,"Electronic Equipment, Instruments & Components",31/03/2022,166.25,01/06/2021,560.45,84.48,599.88,101.4
+Fund III,Company 1,United States of America,"Electronic Equipment, Instruments & Components",31/12/2021,166.25,01/06/2021,560.45,84.48,616.2,99.6
+Fund III,Company 1,United States of America,"Electronic Equipment, Instruments & Components",30/09/2021,166.25,01/06/2021,560.45,84.48,655.8437164,100.2
+Fund III,Company 1,United States of America,"Electronic Equipment, Instruments & Components",30/06/2021,166.25,01/06/2021,560.45,84.48,622.4837164,104.64
+Fund III,Company 2,United States of America,Commercial Services & Supplies,30/09/2023,288.7260283,28/08/2023,2397.67,324.5,2572.68,354
+Fund III,Company 3,United States of America,Energy Equipment & Services,30/09/2023,187.7806689,19/01/2023,304.48,31.24,374.52,42.6
+Fund III,Company 3,United States of America,Energy Equipment & Services,30/06/2023,142.5,19/01/2023,304.48,31.24,329.16,39.12
+Fund III,Company 3,United States of America,Energy Equipment & Services,31/03/2023,142.5,19/01/2023,304.48,31.24,333.24,36.72
+Fund III,Company 4,United States of America,Chemicals,30/09/2023,251.6963972,01/11/2021,803.88,113.96,968.76,121.56
+Fund III,Company 4,United States of America,Chemicals,30/06/2023,254.9729947,01/11/2021,803.88,113.96,974.64,122.28
+Fund III,Company 4,United States of America,Chemicals,31/03/2023,251.2819588,01/11/2021,803.88,113.96,947.04,117.12
+Fund III,Company 4,United States of America,Chemicals,31/12/2022,247,01/11/2021,803.88,113.96,942.6,118.92
+Fund III,Company 4,United States of America,Chemicals,30/09/2022,247,01/11/2021,803.88,113.96,923.52,121.08
+Fund III,Company 4,United States of America,Chemicals,30/06/2022,247,01/11/2021,803.88,113.96,902.4,124.8
+Fund III,Company 4,United States of America,Chemicals,31/03/2022,247,01/11/2021,803.88,113.96,869.04,121.44
+Fund III,Company 4,United States of America,Chemicals,31/12/2021,247,01/11/2021,286,112.2,312,122.4
+Fund III,Company 5,United States of America,Chemicals,30/09/2023,223.5112728,01/05/2021,274.78,29.15,639.96,70.44
+Fund III,Company 5,United States of America,Chemicals,31/12/2022,187.4564947,01/05/2021,274.78,29.15,558.84,60.6
+Fund III,Company 5,United States of America,Chemicals,30/09/2022,134.0322805,01/05/2021,274.78,29.15,427.44,42.72
+Fund III,Company 5,United States of America,Chemicals,30/06/2022,128.5691383,01/05/2021,274.78,29.15,423.6,44.28
+Fund III,Company 5,United States of America,Chemicals,31/03/2022,109.25,01/05/2021,274.78,29.15,314.04,31.2
+Fund III,Company 5,United States of America,Chemicals,31/12/2021,109.25,01/05/2021,274.78,29.15,306.36,31.2
+Fund III,Company 5,United States of America,Chemicals,30/09/2021,109.25,01/05/2021,274.78,29.15,305.392998,32.64
+Fund III,Company 5,United States of America,Chemicals,30/06/2021,109.25,01/05/2021,274.78,29.15,302.752998,32.16
+Fund III,Company 6,Germany,Chemicals,30/09/2023,177.0606514,01/07/2022,399.85,51.81,420.6,52.8
+Fund III,Company 6,Germany,Chemicals,30/06/2023,172.3764712,01/07/2022,399.85,51.81,414.84,52.08
+Fund III,Company 6,Germany,Chemicals,31/03/2023,172.6390407,01/07/2022,399.85,51.81,431.4,52.8
+Fund III,Company 6,Germany,Chemicals,31/12/2022,180.7897823,01/07/2022,0,51.81,451.56,56.88
+Fund III,Company 6,Germany,Chemicals,30/09/2022,167.6461713,01/07/2022,0,51.81,456.936,57.84
+Fund III,Company 7,United States of America,"Electronic Equipment, Instruments & Components",30/09/2023,213.9806971,31/05/2022,734.14,83.71,881.16,87.84
+Fund III,Company 7,United States of America,"Electronic Equipment, Instruments & Components",31/12/2022,213.75,31/05/2022,274.78,113.96,816.12,90.36
+Fund III,Company 7,United States of America,"Electronic Equipment, Instruments & Components",30/09/2022,213.75,31/05/2022,274.78,113.96,793.08,91.68
+Fund III,Company 7,United States of America,"Electronic Equipment, Instruments & Components",30/06/2022,213.75,31/05/2022,734.14,83.71,800.88,88.44
+Fund III,Company 8,United States of America,Beverages,30/09/2023,764.4369256,01/03/2021,4894.45,589.93,8159.04,884.28
+Fund III,Company 8,United States of America,Beverages,30/06/2023,580.9459133,01/03/2021,4894.45,589.93,7269.36,805.44
+Fund III,Company 8,United States of America,Beverages,31/03/2023,469.5524768,01/03/2021,4894.45,589.93,6671.16,741.96
+Fund III,Company 8,United States of America,Beverages,31/12/2022,401.7093307,01/03/2021,4894.45,589.93,6312.12,677.04
+Fund III,Company 8,United States of America,Beverages,30/09/2022,333.7739386,01/03/2021,4894.45,589.93,5967.96,645.48
+Fund III,Company 8,United States of America,Beverages,30/06/2022,328.2957978,01/03/2021,4894.45,589.93,5753.16,640.32
+Fund III,Company 8,United States of America,Beverages,31/03/2022,386.5563338,01/03/2021,4894.45,589.93,6074.04,701.04
+Fund III,Company 8,United States of America,Beverages,31/12/2021,384.56,01/03/2021,4730,589.93,6040.8,713.16
+Fund III,Company 8,United States of America,Beverages,30/09/2021,270.75,01/03/2021,4730,589.93,4816.330435,722.04
+Fund III,Company 8,United States of America,Beverages,30/06/2021,270.75,01/03/2021,4730,589.93,4944.69704,643.56
+Fund III,Company 8,United States of America,Beverages,31/03/2021,287.375,01/03/2021,4730,589.93,5432.762691,643.56
+Fund IV,Company 9,United Kingdom,Health Care Providers & Services,30/09/2023,495.9,03/09/2020,563.2,70.4,1283.020813,172.8
+Fund IV,Company 9,United Kingdom,Health Care Providers & Services,30/06/2023,528.2,03/09/2020,563.2,70.4,1318.732832,181.2
+Fund IV,Company 9,United Kingdom,Health Care Providers & Services,31/03/2023,518.7,03/09/2020,563.2,70.4,1284.169187,205.2
+Fund IV,Company 9,United Kingdom,Health Care Providers & Services,31/12/2022,506.35,03/09/2020,563.2,70.4,1246.592181,296.4
+Fund IV,Company 9,United Kingdom,Health Care Providers & Services,30/09/2022,551.95,03/09/2020,563.2,70.4,1278.576704,280.8
+Fund IV,Company 9,United Kingdom,Health Care Providers & Services,30/06/2022,534.85,03/09/2020,563.2,70.4,1292.844875,160.8
+Fund IV,Company 9,United Kingdom,Health Care Providers & Services,31/03/2022,508.25,03/09/2020,563.2,70.4,1138.676468,123.6
+Fund IV,Company 9,United Kingdom,Health Care Providers & Services,31/12/2021,414.2,03/09/2020,549.45,70.4,923.3740608,129.6
+Fund IV,Company 9,United Kingdom,Health Care Providers & Services,30/09/2021,386.65,03/09/2020,549.45,70.4,897.0156944,109.2
+Fund IV,Company 9,United Kingdom,Health Care Providers & Services,30/06/2021,346.75,03/09/2020,549.45,70.4,835.6880519,100.8
+Fund IV,Company 10,United States of America,Software,30/09/2023,451.25,01/04/2022,990,29.7,1263.155556,50.4
+Fund IV,Company 10,United States of America,Software,30/06/2023,428.45,01/04/2022,990,29.7,1225.132075,50.4
+Fund IV,Company 10,United States of America,Software,31/03/2023,406.6,01/04/2022,990,29.7,1164.711111,50.4
+Fund IV,Company 10,United States of America,Software,31/12/2022,430.35,01/04/2022,990,29.7,1215.466667,46.8
+Fund IV,Company 10,United States of America,Software,30/09/2022,399.95,01/04/2022,990,29.7,1150.355556,39.6
+Fund IV,Company 10,United States of America,Software,30/06/2022,374.3,01/04/2022,990,47.14285714,1084.355556,39.6
+Fund IV,Company 11,United States of America,Media,30/09/2023,611.8,03/06/2020,854.70044,106.7,1274.726208,100.8
+Fund IV,Company 11,United States of America,Media,30/06/2023,570.95,03/06/2020,854.70044,106.7,1083.348,271.2
+Fund IV,Company 11,United States of America,Media,31/03/2023,535.8,03/06/2020,854.70044,106.7,1039.0656,272.4
+Fund IV,Company 11,United States of America,Media,31/12/2022,489.25,03/06/2020,854.70044,106.7,1029.79224,288
+Fund IV,Company 11,United States of America,Media,30/09/2022,475,03/06/2020,854.70044,106.7,983.92728,319.2
+Fund IV,Company 11,United States of America,Media,30/06/2022,554.8,03/06/2020,854.70044,106.7,1205.19492,150
+Fund IV,Company 11,United States of America,Media,31/03/2022,491.15,03/06/2020,854.70044,106.7,1202.71704,123.6
+Fund IV,Company 11,United States of America,Media,31/12/2021,568.1,03/06/2020,854.70044,101.2,1200.37932,55.2
+Fund IV,Company 11,United States of America,Media,31/03/2021,582.35,03/06/2020,861.3,106.7,3954,55.2
+Fund IV,Company 11,United States of America,Media,31/12/2020,377.15,03/06/2020,861.3,92.4,1419.207921,62.4
+Fund IV,Company 11,United States of America,Media,30/09/2020,377.15,03/06/2020,861.3,92.4,1419.207921,62.4
+Fund IV,Company 12,United States of America,IT Services,30/06/2023,424.65,01/12/2021,660,47.3,1137.387342,88.8
+Fund IV,Company 13,United States of America,Construction & Engineering,31/12/2021,285,01/12/2021,660,47.3,791.8909091,62.4
+Fund IV,Company 14,United Kingdom,Health Care Providers & Services,31/03/2021,340.1,03/09/2020,549.45,70.4,752.4783251,90
+Fund IV,Company 14,United Kingdom,Health Care Providers & Services,31/12/2020,219.45,03/09/2020,549.45,70.4,553.7417894,73.2
+Fund IV,Company 14,United Kingdom,Health Care Providers & Services,30/09/2020,219.45,03/09/2020,549.45,70.4,553.7417894,73.2
+Fund IV,Company 15,United States of America,Software,30/09/2023,874.95,01/03/2021,3905,176,5589,273.6
+Fund IV,Company 15,United States of America,Software,30/06/2023,865.45,01/03/2021,3905,176,5692.6,273.6
+Fund IV,Company 15,United States of America,Software,31/03/2023,860.7,01/03/2021,3905,176,5566.8,283.2
+Fund IV,Company 15,United States of America,Software,31/12/2022,828.4,01/03/2021,3905,176,5243.2,301.2
+Fund IV,Company 15,United States of America,Software,30/09/2022,821.75,01/03/2021,3905,176,5261,304.8
+Fund IV,Company 15,United States of America,Software,30/06/2022,781.85,01/03/2021,3905,176,5181.8,284.4
+Fund IV,Company 15,United States of America,Software,31/03/2022,799.9,01/03/2021,0,0,5198.8,272.4
+Fund IV,Company 15,United States of America,Software,31/12/2021,767.6,01/03/2021,3905,176,4929.2,260.4
+Fund IV,Company 15,United States of America,Software,30/09/2021,712.5,01/03/2021,3905,176,4688.4,265.2
+Fund IV,Company 15,United States of America,Software,30/06/2021,617.5,01/03/2021,3905,176,4266.4,258
+Fund IV,Company 15,United States of America,Software,31/03/2021,617.5,01/03/2021,3960,176,4249.6,232.8
+Fund IV,Company 16,United States of America,Health Care Providers & Services,30/09/2023,764.75,01/07/2021,1430,83.6,2110.655422,156
+Fund IV,Company 16,United States of America,Health Care Providers & Services,30/06/2023,764.75,01/07/2021,1430,83.6,2101.055422,156
+Fund IV,Company 16,United States of America,Health Care Providers & Services,31/03/2023,764.75,01/07/2021,1430,83.6,2069.855422,147.6
+Fund IV,Company 16,United States of America,Health Care Providers & Services,31/12/2022,749.55,01/07/2021,1430,83.6,2013.122892,157.2
+Fund IV,Company 16,United States of America,Health Care Providers & Services,30/09/2022,758.1,01/07/2021,1430,83.6,1994.93494,152.4
+Fund IV,Company 16,United States of America,Health Care Providers & Services,30/06/2022,749.55,01/07/2021,1430,83.6,1834.83956,141.6
+Fund IV,Company 16,United States of America,Health Care Providers & Services,31/03/2022,720.1,01/07/2021,1430,83.6,1760.36044,145.2
+Fund IV,Company 16,United States of America,Health Care Providers & Services,31/12/2021,636.5,01/07/2021,1430,83.6,1601.316129,135.6
+Fund IV,Company 16,United States of America,Health Care Providers & Services,30/09/2021,636.5,01/07/2021,1430,83.6,1565.316129,112.8
+Fund IV,Company 17,United States of America,Insurance,30/09/2023,1202.7,16/11/2020,2915,211.2,5801.765854,357.6
+Fund IV,Company 17,United States of America,Insurance,30/06/2023,1147.6,16/11/2020,2915,211.2,5484.228571,344.4
+Fund IV,Company 17,United States of America,Insurance,31/03/2023,1043.1,16/11/2020,2915,211.2,4976.986047,342
+Fund IV,Company 17,United States of America,Insurance,31/12/2022,1073.5,16/11/2020,2915,211.2,4915.088372,338.4
+Fund IV,Company 17,United States of America,Insurance,30/09/2022,963.3,16/11/2020,2915,211.2,4567.367442,330
+Fund IV,Company 17,United States of America,Insurance,30/06/2022,850.25,16/11/2020,2915,211.2,4081.309091,290.4
+Fund IV,Company 17,United States of America,Insurance,31/03/2022,854.05,16/11/2020,2915,211.2,4099.418182,280.8
+Fund IV,Company 17,United States of America,Insurance,31/12/2021,838.85,16/11/2020,2915,211.2,3953.066667,272.4
+Fund IV,Company 17,United States of America,Insurance,30/09/2021,777.1,16/11/2020,2915,211.2,3607.513043,252
+Fund IV,Company 17,United States of America,Insurance,30/06/2021,748.6,16/11/2020,2915,211.2,3471.114894,250.8
+Fund IV,Company 17,United States of America,Insurance,31/03/2021,690.65,16/11/2020,2915,211.2,3246.970213,237.6
+Fund IV,Company 18,Netherlands,Diversified Consumer Services,30/06/2022,346.75,01/11/2018,257.4,24.2,1260,97.2
+Fund IV,Company 18,Netherlands,Diversified Consumer Services,31/03/2022,336.3,01/11/2018,257.4,24.2,1260,97.2
+Fund IV,Company 18,Netherlands,Diversified Consumer Services,31/12/2021,294.5,01/11/2018,270.6,24.2,975.3151619,93.6
+Fund IV,Company 18,Netherlands,Diversified Consumer Services,30/09/2021,233.7,01/11/2018,257.4,24.2,819.1494511,88.8
+Fund IV,Company 18,Netherlands,Diversified Consumer Services,30/06/2021,200.45,01/11/2018,257.4,24.2,741.3815129,85.2
+Fund IV,Company 18,Netherlands,Diversified Consumer Services,31/03/2021,189.05,01/11/2018,270.6,24.2,615.2933813,68.4
+Fund IV,Company 18,Netherlands,Diversified Consumer Services,31/12/2020,151.05,01/11/2018,270.6,24.2,507.3155627,62.4
+Fund IV,Company 18,Netherlands,Diversified Consumer Services,30/09/2020,151.05,01/11/2018,270.6,24.2,507.3155627,62.4
+Fund IV,Company 18,Netherlands,Diversified Consumer Services,30/09/2019,118.75,01/11/2018,270.6,24.2,341.8716525,34.8
+Fund IV,Company 19,United States of America,Commercial Services & Supplies,30/06/2023,240.35,01/03/2022,808.5,69.3,671.490411,45.6
+Fund IV,Company 20,United Kingdom,Media,30/09/2023,529.15,01/02/2022,693,50.6,1056.142231,88.8
+Fund IV,Company 20,United Kingdom,Media,30/06/2023,521.55,01/02/2022,693,50.6,1052.47382,84
+Fund IV,Company 20,United Kingdom,Media,31/03/2023,378.1,01/02/2022,693,50.6,885.2861966,81.6
+Fund IV,Company 20,United Kingdom,Media,31/12/2022,356.25,01/02/2022,693,50.6,822.2985819,75.6
+Fund IV,Company 20,United Kingdom,Media,30/09/2022,319.2,01/02/2022,693,50.6,813.1068772,74.4
+Fund IV,Company 20,United Kingdom,Media,30/06/2022,322.05,01/02/2022,693,57.2,799.3251792,69.6
+Fund IV,Company 20,United Kingdom,Media,31/03/2022,328.7,01/02/2022,693,57.2,716.7980342,64.8
+Fund IV,Company 21,United States of America,Consumer Finance,30/09/2023,599.45,01/09/2021,3355,173.8,4223.834483,220.8
+Fund IV,Company 21,United States of America,Consumer Finance,30/06/2023,552.9,01/09/2021,3355,173.8,3947.875862,217.2
+Fund IV,Company 21,United States of America,Consumer Finance,31/03/2023,540.55,01/09/2021,3355,173.8,3818.482759,198
+Fund IV,Company 21,United States of America,Consumer Finance,31/12/2022,514.9,01/09/2021,3355,173.8,3645.558621,190.8
+Fund IV,Company 21,United States of America,Consumer Finance,30/09/2022,483.55,01/09/2021,3355,173.8,3557.6,198
+Fund IV,Company 21,United States of America,Consumer Finance,30/06/2022,528.2,01/09/2021,3355,173.8,3760,204
+Fund IV,Company 21,United States of America,Consumer Finance,31/03/2022,593.75,01/09/2021,3355,173.8,3572.8,188.4
+Fund IV,Company 21,United States of America,Consumer Finance,31/12/2021,593.75,01/09/2021,3355,168.3,3547.6,188.4
+Fund IV,Company 21,United States of America,Consumer Finance,30/09/2021,593.75,01/09/2021,3355,173.8,3422.8,189.6
+Fund IV,Company 22,Canada,Aerospace & Defense,30/09/2023,971.85,01/12/2019,5071,1148.4,7582.695349,1083.6
+Fund IV,Company 22,Canada,Aerospace & Defense,30/06/2023,995.6,01/12/2019,5071,1148.4,7624.825807,937.2
+Fund IV,Company 22,Canada,Aerospace & Defense,31/03/2023,908.2,01/12/2019,5071,1148.4,6855.98506,616.8
+Fund IV,Company 22,Canada,Aerospace & Defense,31/12/2022,912,01/12/2019,5071,1148.4,4386.219831,199.2
+Fund IV,Company 22,Canada,Aerospace & Defense,30/09/2022,931.95,01/12/2019,5071,1144,4401.308689,146.4
+Fund IV,Company 22,Canada,Aerospace & Defense,31/12/2020,744.8,01/12/2019,5500,1144,4281.994322,309.6
+Fund IV,Company 22,Canada,Aerospace & Defense,30/09/2020,744.8,01/12/2019,5500,1144,4281.994322,309.6
+Fund II,Company 23,United States of America,Health Care Providers & Services,31/12/2021,130.3367197,01/05/2017,137.5,13.31,450,29.88
+Fund II,Company 23,United States of America,Health Care Providers & Services,30/09/2021,86.46902755,01/05/2017,137.5,13.31,321.96,30.48
+Fund II,Company 23,United States of America,Health Care Providers & Services,30/06/2021,86.46902755,01/05/2017,137.5,13.31,322.32,30.72
+Fund II,Company 23,United States of America,Health Care Providers & Services,31/03/2021,83.125,01/05/2017,137.5,13.31,313.8,30
+Fund II,Company 23,United States of America,Health Care Providers & Services,31/12/2020,75.335,01/05/2017,137.5,13.31,294.12,28.08
+Fund II,Company 23,United States of America,Health Care Providers & Services,30/09/2020,82.65,01/05/2017,137.5,13.31,275.28,26.28
+Fund II,Company 23,United States of America,Health Care Providers & Services,30/09/2019,92.245,01/05/2017,137.5,13.31,308.28,25.32
+Fund II,Company 23,United States of America,Health Care Providers & Services,30/09/2018,59.375,01/05/2017,137.5,13.31,228.48,20.76
+Fund II,Company 24,United States of America,Health Care Providers & Services,30/09/2019,25.65,01/11/2015,93.5,11.44,56.52,6
+Fund II,Company 25,United States of America,Health Care Providers & Services,31/12/2022,147.2427838,01/01/2018,124.08,13.09,848.4,72.7368
+Fund II,Company 25,United States of America,Health Care Providers & Services,30/09/2022,170.4158507,01/01/2018,124.08,13.09,923.88,66.36
+Fund II,Company 25,United States of America,Health Care Providers & Services,30/06/2022,168.9310653,01/01/2018,124.08,13.09,905.88,68.04
+Fund II,Company 25,United States of America,Health Care Providers & Services,31/03/2022,154.2480971,01/01/2018,124.08,13.09,870,68.28
+Fund II,Company 25,United States of America,Health Care Providers & Services,31/12/2021,150.5022813,01/01/2018,124.08,13.09,826.8,61.2
+Fund II,Company 25,United States of America,Health Care Providers & Services,30/09/2021,136.1075374,01/01/2018,124.08,13.09,782.04,62.52
+Fund II,Company 25,United States of America,Health Care Providers & Services,30/06/2021,104.3864351,01/01/2018,124.08,13.09,407.52,37.08
+Fund II,Company 25,United States of America,Health Care Providers & Services,31/03/2021,75.05,01/01/2018,124.08,13.09,240.48,25.32
+Fund II,Company 25,United States of America,Health Care Providers & Services,31/12/2020,71.44,01/01/2018,124.08,13.09,221.88,24.6
+Fund II,Company 25,United States of America,Health Care Providers & Services,30/09/2020,58.33,01/01/2018,124.08,13.09,195.48,21.6
+Fund II,Company 25,United States of America,Health Care Providers & Services,30/09/2019,40.09,01/01/2018,124.08,13.09,134.16,12.36
+Fund II,Company 25,United States of America,Health Care Providers & Services,30/09/2018,36.48,01/01/2018,124.08,13.09,134.16,13.56
+Fund II,Company 26,United States of America,Health Care Providers & Services,31/12/2022,29.081438,01/02/2019,129.25,12.54,423.96,38.64
+Fund II,Company 26,United States of America,Health Care Providers & Services,30/09/2022,29.081438,01/02/2019,129.25,12.54,447.72,34.08
+Fund II,Company 26,United States of America,Health Care Providers & Services,30/06/2022,29.081438,01/02/2019,129.25,12.54,450.6,34.56
+Fund II,Company 26,United States of America,Health Care Providers & Services,31/03/2022,37.91299045,01/02/2019,129.25,12.54,511.56,37.7508
+Fund II,Company 26,United States of America,Health Care Providers & Services,31/12/2021,37.91299045,01/02/2019,129.25,12.32,500.4,37.1039064
+Fund II,Company 26,United States of America,Health Care Providers & Services,30/09/2021,37.91299045,01/02/2019,129.25,12.32,522.48,46.44
+Fund II,Company 26,United States of America,Health Care Providers & Services,30/06/2021,37.91299045,01/02/2019,129.25,12.32,518.52,49.8
+Fund II,Company 26,United States of America,Health Care Providers & Services,31/03/2021,52.155,01/02/2019,129.25,12.32,516.12,51.6
+Fund II,Company 26,United States of America,Health Care Providers & Services,31/12/2020,48.45,01/02/2019,129.25,12.32,480,44.88
+Fund II,Company 26,United States of America,Health Care Providers & Services,30/09/2020,36.67,01/02/2019,129.25,12.32,347.28,30.12
+Fund II,Company 26,United States of America,Health Care Providers & Services,30/09/2019,16.815,01/02/2019,129.25,12.32,160.68,16.32
+Fund II,Company 27,United States of America,Health Care Providers & Services,31/12/2022,39.9,09/12/2021,269.5,16.5,295.68,22.68
+Fund II,Company 27,United States of America,Health Care Providers & Services,30/09/2022,39.9,09/12/2021,269.5,16.5,296.28,21.12
+Fund II,Company 27,United States of America,Health Care Providers & Services,30/06/2022,39.9,09/12/2021,269.5,16.5,298.44,20.16
+Fund II,Company 27,United States of America,Health Care Providers & Services,31/03/2022,39.9,09/12/2021,269.5,16.5,297.24,18.6396
+Fund II,Company 27,United States of America,Health Care Providers & Services,31/12/2021,39.9,09/12/2021,269.5,16.5,294.48,18.36
+Fund II,Company 28,United States of America,Health Care Providers & Services,30/09/2023,12.6400141,01/01/2014,302.5,32.45,1020,139.44
+Fund II,Company 28,United States of America,Health Care Providers & Services,30/06/2023,12.825,01/01/2014,302.5,32.45,1020,139.44
+Fund II,Company 28,United States of America,Health Care Providers & Services,31/03/2023,21.28,01/01/2014,302.5,32.45,1020,139.44
+Fund II,Company 28,United States of America,Health Care Providers & Services,31/12/2022,67.62243545,01/01/2014,302.5,32.45,1020,139.44
+Fund II,Company 28,United States of America,Health Care Providers & Services,30/09/2022,77.95477985,01/01/2014,302.5,32.45,1020,139.08
+Fund II,Company 28,United States of America,Health Care Providers & Services,30/06/2022,79.9258959,01/01/2014,302.5,32.45,1138.56,131.4
+Fund II,Company 28,United States of America,Health Care Providers & Services,31/03/2022,78.61078335,01/01/2014,302.5,32.45,1129.44,118.56
+Fund II,Company 28,United States of America,Health Care Providers & Services,31/12/2021,78.61078335,01/01/2014,302.5,32.45,1158.36,123
+Fund II,Company 28,United States of America,Health Care Providers & Services,30/09/2021,118.6635681,01/01/2014,302.5,32.45,1155.48,122.52
+Fund II,Company 28,United States of America,Health Care Providers & Services,30/06/2021,118.6635681,01/01/2014,302.5,32.45,1159.32,127.8
+Fund II,Company 28,United States of America,Health Care Providers & Services,31/03/2021,129.865,01/01/2014,302.5,32.45,1156.92,124.92
+Fund II,Company 28,United States of America,Health Care Providers & Services,31/12/2020,129.865,01/01/2014,302.5,32.45,1209.6,120.96
+Fund II,Company 28,United States of America,Health Care Providers & Services,30/09/2020,125.02,01/01/2014,302.5,32.45,1204.8,120.48
+Fund II,Company 28,United States of America,Health Care Providers & Services,30/09/2019,127.585,01/01/2014,302.5,32.45,1275.12,115.92
+Fund II,Company 28,United States of America,Health Care Providers & Services,30/09/2018,118.18,01/01/2014,302.5,32.45,1195.32,103.92
+Fund II,Company 29,United States of America,Health Care Providers & Services,30/09/2021,44.1346402,01/08/2015,235.84,27.17,1636.56,265.92
+Fund II,Company 29,United States of America,Health Care Providers & Services,30/06/2021,33.92213165,01/08/2015,235.84,27.17,1636.56,265.92
+Fund II,Company 29,United States of America,Health Care Providers & Services,31/03/2021,26.505,01/08/2015,235.84,27.17,1636.56,209.4
+Fund II,Company 29,United States of America,Health Care Providers & Services,31/12/2020,19.76,01/08/2015,235.84,27.17,1636.56,155.88
+Fund II,Company 29,United States of America,Health Care Providers & Services,30/09/2020,19,01/08/2015,235.84,27.17,573.96,72.72
+Fund II,Company 29,United States of America,Health Care Providers & Services,30/09/2019,9.5,01/08/2015,235.84,27.17,573.96,72.72
+Fund II,Company 29,United States of America,Health Care Providers & Services,30/09/2018,9.0231741,01/08/2015,235.84,27.17,573.96,72.72
+Fund II,Company 30,United States of America,Health Care Providers & Services,31/12/2022,29.0840543,01/10/2018,346.5,17.05,614.52,40.92
+Fund II,Company 30,United States of America,Health Care Providers & Services,30/09/2022,24.84116145,01/10/2018,346.5,17.05,542.76,36.24
+Fund II,Company 30,United States of America,Health Care Providers & Services,30/06/2022,20.9471865,01/10/2018,346.5,17.05,475.68,31.68
+Fund II,Company 30,United States of America,Health Care Providers & Services,31/03/2022,17.15873375,01/10/2018,346.5,17.05,416.52,27.72
+Fund II,Company 30,United States of America,Health Care Providers & Services,31/12/2021,15.58024415,01/10/2018,346.5,17.05,395.04,26.28
+Fund II,Company 30,United States of America,Health Care Providers & Services,30/09/2021,14.25,01/10/2018,346.5,17.05,373.2,24
+Fund II,Company 30,United States of America,Health Care Providers & Services,30/06/2021,11.60233955,01/10/2018,346.5,17.05,330.12,21.96
+Fund II,Company 30,United States of America,Health Care Providers & Services,31/03/2021,10.735,01/10/2018,346.5,17.05,320.16,21.12
+Fund II,Company 30,United States of America,Health Care Providers & Services,31/12/2020,9.975,01/10/2018,346.5,17.05,310.44,20.4
+Fund II,Company 30,United States of America,Health Care Providers & Services,30/09/2020,9.975,01/10/2018,346.5,17.05,307.68,20.64
+Fund II,Company 30,United States of America,Health Care Providers & Services,30/09/2019,14.25,01/10/2018,346.5,17.05,383.76,18.36
+Fund II,Company 31,United States of America,Health Care Providers & Services,31/12/2020,74.1,01/12/2015,187,19.36,450,54
+Fund II,Company 31,United States of America,Health Care Providers & Services,30/09/2020,79.42,01/12/2015,187,19.36,403.56,51.72
+Fund II,Company 31,United States of America,Health Care Providers & Services,30/09/2019,63.65,01/12/2015,187,19.36,346.2,35.88
+Fund II,Company 31,United States of America,Health Care Providers & Services,30/09/2018,61.37,01/12/2015,187,19.36,316.68,32.64
+Fund II,Company 32,United States of America,Professional Services,31/12/2022,47.9167707,01/12/2017,181.5,25.74,334.56,36.48
+Fund II,Company 32,United States of America,Professional Services,30/09/2022,47.9167707,01/12/2017,181.5,25.74,336.24,34.2
+Fund II,Company 32,United States of America,Professional Services,30/06/2022,47.8987568,01/12/2017,181.5,25.74,331.56,31.56
+Fund II,Company 32,United States of America,Professional Services,31/03/2022,54.3213515,01/12/2017,181.5,25.74,355.68,32.64
+Fund II,Company 32,United States of America,Professional Services,31/12/2021,54.3213515,01/12/2017,181.5,25.74,361.0068,34.5456
+Fund II,Company 32,United States of America,Professional Services,30/09/2021,54.36526145,01/12/2017,181.5,25.74,438.36,40.32
+Fund II,Company 32,United States of America,Professional Services,30/06/2021,54.36526145,01/12/2017,181.5,25.74,437.76,42.36
+Fund II,Company 32,United States of America,Professional Services,31/03/2021,54.34,01/12/2017,181.5,25.74,437.28,44.4
+Fund II,Company 32,United States of America,Professional Services,31/12/2020,54.34,01/12/2017,181.5,25.74,442.92,45.6
+Fund II,Company 32,United States of America,Professional Services,30/09/2020,54.34,01/12/2017,181.5,25.74,445.68,45
+Fund II,Company 32,United States of America,Professional Services,30/09/2019,49.97,01/12/2017,181.5,25.74,414.96,41.52
+Fund II,Company 32,United States of America,Professional Services,30/09/2018,71.06,01/12/2017,181.5,25.74,273.84,32.16
+Fund II,Company 33,United States of America,Health Care Providers & Services,31/12/2020,5.13,01/08/2014,130.9,13.53,115.92,9.24
+Fund II,Company 33,United States of America,Health Care Providers & Services,30/09/2020,5.13,01/08/2014,130.9,13.53,101.16,11.16
+Fund II,Company 33,United States of America,Health Care Providers & Services,30/09/2019,13.87,01/08/2014,130.9,13.53,128.76,15.48
+Fund II,Company 33,United States of America,Health Care Providers & Services,30/09/2018,13.87,01/08/2014,130.9,13.53,131.76,12.12
+Fund V,Company 34,United States of America,Personal Products,30/09/2023,240.8394657,17/01/2020,341,29.37,530.3600749,42.6
+Fund V,Company 34,United States of America,Personal Products,30/06/2023,229.9947521,17/01/2020,341,29.37,516.1940091,37.08
+Fund V,Company 34,United States of America,Personal Products,31/12/2022,240.8584457,17/01/2020,341,29.37,521.5048678,43.44
+Fund V,Company 34,United States of America,Personal Products,30/09/2022,238.6408721,17/01/2020,341,29.37,516.5681299,42.6
+Fund V,Company 34,United States of America,Personal Products,30/06/2022,234.3851248,17/01/2020,341,29.37,499.6089977,42.36
+Fund V,Company 34,United States of America,Personal Products,31/03/2022,204.4643789,17/01/2020,341,29.37,460.4533276,39.48
+Fund V,Company 34,United States of America,Personal Products,31/12/2021,190.804233,17/01/2020,341,29.39655172,443.1263913,37.44
+Fund V,Company 34,United States of America,Personal Products,30/09/2021,166.5001065,17/01/2020,341,29.39655172,412.1642972,33.6
+Fund V,Company 34,United States of America,Personal Products,30/06/2021,165.1631924,17/01/2020,341,29.39655172,413.3015381,34.32
+Fund V,Company 34,United States of America,Personal Products,31/03/2021,149.5037012,17/01/2020,341,29.39655172,395.6483183,33.48
+Fund V,Company 35,United States of America,Professional Services,30/09/2023,86.1181479,03/09/2021,239.8974727,8.36,284.9653269,5.16
+Fund V,Company 35,United States of America,Professional Services,31/12/2022,82.34247835,03/09/2021,239.8974727,8.36,265.4603339,9.6
+Fund V,Company 35,United States of America,Professional Services,30/09/2022,94.96051515,03/09/2021,239.8974727,8.36,295.8873225,14.52
+Fund V,Company 35,United States of America,Professional Services,30/06/2022,101.5023311,03/09/2021,239.8974727,8.36,217.8247427,18.72
+Fund V,Company 35,United States of America,Professional Services,31/03/2022,95.17026945,03/09/2021,239.8974727,8.36,209.7302765,18.12
+Fund V,Company 35,United States of America,Professional Services,31/12/2021,119.6828905,03/09/2021,239.8974727,8.36,257.8663338,11.64
+Fund V,Company 35,United States of America,Professional Services,30/09/2021,119.6828905,03/09/2021,239.8974727,8.36,261.7063338,9.12
+Fund V,Company 36,United States of America,Health Care Providers & Services,30/09/2023,171.3193302,01/08/2021,189.1641734,12.1,431.3903149,27
+Fund V,Company 36,United States of America,Health Care Providers & Services,30/06/2023,175.4061171,01/08/2021,189.1641734,12.1,426.734778,26.64
+Fund V,Company 36,United States of America,Health Care Providers & Services,31/12/2022,134.4029363,01/08/2021,189.1641734,12.1,349.6178873,21.72
+Fund V,Company 36,United States of America,Health Care Providers & Services,30/09/2022,117.4985945,01/08/2021,189.1641734,12.1,320.4774868,20.28
+Fund V,Company 36,United States of America,Health Care Providers & Services,30/06/2022,108.9784501,01/08/2021,189.1641734,12.1,429.6228343,21.24
+Fund V,Company 36,United States of America,Health Care Providers & Services,31/03/2022,118.1360749,01/08/2021,189.1641734,12.1,311.4382007,22.8
+Fund V,Company 36,United States of America,Health Care Providers & Services,31/12/2021,117.4985945,01/08/2021,189.1641734,12.1,312.161091,23.16
+Fund V,Company 36,United States of America,Health Care Providers & Services,30/09/2021,85.6734833,01/08/2021,189.1641734,12.1,206.3609164,13.2
+Fund V,Company 37,United States of America,Metals & Mining,30/09/2023,196.4881913,01/10/2018,440,57.14285714,938.5254797,94.92
+Fund V,Company 37,United States of America,Metals & Mining,30/06/2023,195.6646268,01/10/2018,440,57.14285714,939.7261218,97.92
+Fund V,Company 37,United States of America,Metals & Mining,31/12/2022,186.8612808,01/10/2018,440,57.14285714,879.9694871,104.88
+Fund V,Company 37,United States of America,Metals & Mining,30/09/2022,186.7130238,01/10/2018,440,57.14285714,861.2241728,96.12
+Fund V,Company 37,United States of America,Metals & Mining,30/06/2022,185.134119,01/10/2018,440,57.14285714,876.8779853,96.84
+Fund V,Company 37,United States of America,Metals & Mining,31/03/2022,135.7763256,01/10/2018,440,57.14285714,721.8752703,70.8
+Fund V,Company 37,United States of America,Metals & Mining,31/12/2021,136.2868604,01/10/2018,440,57.14285714,704.0534492,72.96
+Fund V,Company 37,United States of America,Metals & Mining,30/09/2021,133.4545351,01/10/2018,440,57.14285714,651.4567388,66.96
+Fund V,Company 37,United States of America,Metals & Mining,30/06/2021,128.1125512,01/10/2018,440,57.14285714,632.9257202,62.64
+Fund V,Company 37,United States of America,Metals & Mining,31/03/2021,130.9829154,01/10/2018,440,57.14285714,747.6493142,56.4
+Fund V,Company 37,United States of America,Metals & Mining,31/12/2020,135.5373892,01/10/2018,440,57.14285714,746.6826353,58.2
+Fund V,Company 37,United States of America,Metals & Mining,30/09/2020,132.6428171,01/10/2018,440,57.14285714,740.956854,66.24
+Fund V,Company 37,United States of America,Metals & Mining,30/09/2019,89.17432165,01/10/2018,440,57.14285714,455.9528135,55.2
+Fund V,Company 38,United States of America,Food & Staples Retailing,30/09/2023,236.2200346,02/12/2018,447.678,43.89,1532.552335,177.36
+Fund V,Company 38,United States of America,Food & Staples Retailing,30/06/2023,231.5470853,02/12/2018,447.678,43.89,1541.052481,180.36
+Fund V,Company 38,United States of America,Food & Staples Retailing,31/12/2022,235.6878788,02/12/2018,447.678,43.89,1614.127854,183.6
+Fund V,Company 38,United States of America,Food & Staples Retailing,30/09/2022,224.5027052,02/12/2018,447.678,43.89,1501.146502,185.52
+Fund V,Company 38,United States of America,Food & Staples Retailing,30/06/2022,239.3102716,02/12/2018,447.678,43.89,1621.336599,192.36
+Fund V,Company 38,United States of America,Food & Staples Retailing,31/03/2022,391.9254735,02/12/2018,447.678,43.89,1553.970857,210.24
+Fund V,Company 38,United States of America,Food & Staples Retailing,31/12/2021,402.0320932,02/12/2018,447.678,43.89,1996.381234,205.56
+Fund V,Company 38,United States of America,Food & Staples Retailing,30/09/2021,371.0379945,02/12/2018,447.678,43.89,1786.965284,189.6
+Fund V,Company 38,United States of America,Food & Staples Retailing,30/06/2021,367.169452,02/12/2018,447.678,43.89,1623.913862,171.12
+Fund V,Company 38,United States of America,Food & Staples Retailing,31/03/2021,284.8961432,02/12/2018,447.678,43.89,1423.699337,167.28
+Fund V,Company 38,United States of America,Food & Staples Retailing,31/12/2020,268.8228775,02/12/2018,447.678,43.89,1385.342716,166.08
+Fund V,Company 38,United States of America,Food & Staples Retailing,30/09/2020,183.1618421,02/12/2018,447.678,43.89,651.496304,70.92
+Fund V,Company 38,United States of America,Food & Staples Retailing,30/09/2019,104.7706655,02/12/2018,447.678,43.89,500.5086653,44.52
+Fund V,Company 39,United States of America,Food & Staples Retailing,30/09/2023,142.4831375,03/07/2018,542.52,56.1,879.4452113,78
+Fund V,Company 39,United States of America,Food & Staples Retailing,30/06/2023,140.7347974,03/07/2018,542.52,56.1,868.9811042,75.24
+Fund V,Company 39,United States of America,Food & Staples Retailing,31/12/2022,124.1915801,03/07/2018,542.52,56.1,846.0878282,71.28
+Fund V,Company 39,United States of America,Food & Staples Retailing,30/09/2022,130.1003369,03/07/2018,542.52,56.1,857.2482338,64.68
+Fund V,Company 39,United States of America,Food & Staples Retailing,30/06/2022,136.0845446,03/07/2018,542.52,56.1,869.1123634,65.88
+Fund V,Company 39,United States of America,Food & Staples Retailing,31/03/2022,137.7715555,03/07/2018,542.52,56.1,866.7946197,69
+Fund V,Company 39,United States of America,Food & Staples Retailing,31/12/2021,139.4845604,03/07/2018,542.52,56.1,869.1139521,73.08
+Fund V,Company 39,United States of America,Food & Staples Retailing,30/09/2021,143.1904277,03/07/2018,542.52,56.1,870.0224394,71.4
+Fund V,Company 39,United States of America,Food & Staples Retailing,30/06/2021,178.8758392,03/07/2018,542.52,56.1,819.5953718,70.2
+Fund V,Company 39,United States of America,Food & Staples Retailing,31/03/2021,178.0749512,03/07/2018,542.52,56.1,809.5406113,72.96
+Fund V,Company 39,United States of America,Food & Staples Retailing,31/12/2020,167.5970753,03/07/2018,542.52,56.1,791.6720394,72.12
+Fund V,Company 39,United States of America,Food & Staples Retailing,30/09/2020,157.2954777,03/07/2018,542.52,56.1,765.3261606,68.52
+Fund V,Company 39,United States of America,Food & Staples Retailing,30/09/2019,138.7123111,03/07/2018,542.52,56.1,703.1637851,65.16
+Fund V,Company 40,United States of America,Commercial Services & Supplies,30/09/2023,145.4799505,01/08/2023,267.377,24.53,307.4880364,25.8
+Fund V,Company 41,United States of America,Construction & Engineering,30/09/2023,218.7646843,16/09/2020,187.5492934,23.54,461.2020139,39.72
+Fund V,Company 41,United States of America,Construction & Engineering,30/06/2023,188.2759932,16/09/2020,187.5492934,23.54,408.1817649,35.52
+Fund V,Company 41,United States of America,Construction & Engineering,31/12/2022,103.1193812,16/09/2020,187.5492934,23.54,232.4755536,17.76
+Fund V,Company 41,United States of America,Construction & Engineering,30/09/2022,82.0707736,16/09/2020,187.5492934,23.54,205.3185527,15.84
+Fund V,Company 41,United States of America,Construction & Engineering,30/06/2022,74.0657886,16/09/2020,187.5492934,23.54,191.8315679,15.24
+Fund V,Company 41,United States of America,Construction & Engineering,31/03/2022,87.1077363,16/09/2020,187.5492934,23.54,210.1200698,14.04
+Fund V,Company 41,United States of America,Construction & Engineering,31/12/2021,88.9235834,16/09/2020,187.5492934,23.54,210.8990606,12.96
+Fund V,Company 41,United States of America,Construction & Engineering,30/09/2021,85.5343539,16/09/2020,187.5492934,23.54,207.6156929,14.64
+Fund V,Company 41,United States of America,Construction & Engineering,30/06/2021,86.9416497,16/09/2020,187.5492934,23.54,208.2071303,18.24
+Fund V,Company 41,United States of America,Construction & Engineering,31/03/2021,92.8004536,16/09/2020,187.5492934,23.54,215.3247587,22.56
+Fund V,Company 41,United States of America,Construction & Engineering,31/12/2020,80.63671725,16/09/2020,187.5492934,23.54,204.4545032,25.8
+Fund V,Company 41,United States of America,Construction & Engineering,30/09/2020,80.63671725,16/09/2020,187.5492934,23.54,204.5745032,25.68
+Fund I,Company 42,United States of America,Software,30/09/2023,4258.324899,22/07/2021,6210.05,248.38,10990.35441,333.12
+Fund I,Company 42,United States of America,Software,30/06/2023,4313.87077,22/07/2021,6210.05,248.38,8016.6,333.12
+Fund I,Company 42,United States of America,Software,31/03/2023,2836.606068,22/07/2021,6210.05,248.38,8016.6,333.12
+Fund I,Company 42,United States of America,Software,31/12/2022,2677.861009,22/07/2021,6210.05,248.38,7661.28,333.12
+Fund I,Company 42,United States of America,Software,30/09/2022,2274.965858,22/07/2021,6210.05,248.38,6917.4,300.72
+Fund I,Company 42,United States of America,Software,30/06/2022,2484.440936,22/07/2021,6210.05,248.38,7323,298.92
+Fund I,Company 42,United States of America,Software,31/03/2022,2294.632507,22/07/2021,6210.05,248.38,6881.88,280.92
+Fund I,Company 42,United States of America,Software,31/12/2021,2232.499698,22/07/2021,6210.05,248.38,6823.68,262.44
+Fund I,Company 42,United States of America,Software,30/09/2021,2232.499698,22/07/2021,6210.05,248.38,6774,270.96
+Fund I,Company 43,United States of America,Software,30/09/2023,872.3853289,16/04/2021,1164.46,43.23,1584.24,70.56
+Fund I,Company 43,United States of America,Software,30/06/2023,873.2403295,16/04/2021,1164.46,43.23,1584,68.88
+Fund I,Company 43,United States of America,Software,31/03/2023,877.7053301,16/04/2021,1164.46,43.23,1584.48,60.12
+Fund I,Company 43,United States of America,Software,31/12/2022,693.6902608,16/04/2021,1164.46,43.23,1340.52,56.28
+Fund I,Company 43,United States of America,Software,30/09/2022,865.6403259,16/04/2021,1164.46,43.23,1560.36,59.64
+Fund I,Company 43,United States of America,Software,30/06/2022,851.5803219,16/04/2021,1164.46,43.23,1536.72,48.12
+Fund I,Company 43,United States of America,Software,31/03/2022,913.9959995,16/04/2021,1164.46,43.23,1614.12,40.8
+Fund I,Company 43,United States of America,Software,31/12/2021,858.8948841,16/04/2021,1164.46,43.23,1531.56,35.4
+Fund I,Company 43,United States of America,Software,30/09/2021,866.019884,16/04/2021,1164.46,43.23,1531.68,41.64
+Fund I,Company 43,United States of America,Software,30/06/2021,679.2507417,16/04/2021,1164.46,43.23,1299.24,41.8044
+Fund I,Company 44,United States of America,Software,30/09/2023,1061.435399,03/03/2021,3075.71,225.61,3669.12,233.04
+Fund I,Company 44,United States of America,Software,30/06/2023,1108.650418,03/03/2021,3075.71,225.61,3728.16,224.76
+Fund I,Company 44,United States of America,Software,31/03/2023,1099.245414,03/03/2021,3075.71,225.61,3745.92,227.04
+Fund I,Company 44,United States of America,Software,31/12/2022,928.8153499,03/03/2021,3075.71,225.61,3404.76,227.04
+Fund I,Company 44,United States of America,Software,30/09/2022,906.9653419,03/03/2021,3075.71,225.61,2187.84,233.64
+Fund I,Company 44,United States of America,Software,30/06/2022,935.9403524,03/03/2021,3075.71,225.61,3434.4,236.88
+Fund I,Company 44,United States of America,Software,31/03/2022,855.0009337,01/03/2021,3075.71,225.61,3411.12,235.2
+Fund I,Company 44,United States of America,Software,31/12/2021,854.9998845,01/03/2021,3075.71,225.61,3307.8,228.12
+Fund I,Company 44,United States of America,Software,30/09/2021,854.9998845,01/03/2021,3075.71,225.61,3280.68,226.2
+Fund I,Company 44,United States of America,Software,30/06/2021,855.0009337,01/03/2021,3075.71,225.61,3279.130866,240.48
+Fund I,Company 44,United States of America,Software,31/03/2021,855,01/03/2021,3075.71,225.61,3340.32,246.12
+Fund I,Company 45,United States of America,Software,30/09/2023,1520.095573,29/10/2021,7501.45,187.22,7722,224.4
+Fund I,Company 45,United States of America,Software,30/06/2023,1608.635606,29/10/2021,7501.45,187.22,7915.68,185.28
+Fund I,Company 45,United States of America,Software,31/03/2023,1660.885626,29/10/2021,7501.45,187.22,8073.6,284.88
+Fund I,Company 45,United States of America,Software,31/12/2022,1487.22556,29/10/2021,7501.45,187.22,7549.8,182.4
+Fund I,Company 45,United States of America,Software,30/06/2022,1644.16562,29/10/2021,7501.45,187.22,7472.64,161.4
+Fund I,Company 45,United States of America,Software,31/03/2022,1995.002179,01/10/2021,7501.45,187.22,8499.12,168
+Fund I,Company 45,United States of America,Software,31/12/2021,1994.99973,01/10/2021,7501.45,58.52,8183.4,63.84
+Fund I,Company 46,United States of America,Software,30/09/2023,2644.230996,31/08/2021,12914.55,349.36,15795,682.68
+Fund I,Company 46,United States of America,Software,30/06/2023,2568.895968,31/08/2021,12914.55,349.36,15444,637.44
+Fund I,Company 46,United States of America,Software,31/03/2023,2572.88597,31/08/2021,12914.55,349.36,15444,628.92
+Fund I,Company 46,United States of America,Software,31/12/2022,2321.040874,31/08/2021,12914.55,349.36,14256.84,629.04
+Fund I,Company 46,United States of America,Software,30/09/2022,2277.625858,31/08/2021,12914.55,349.36,14146.56,589.44
+Fund I,Company 46,United States of America,Software,30/06/2022,2473.420933,31/08/2021,12914.55,349.36,15087.72,533.16
+Fund I,Company 46,United States of America,Software,31/03/2022,2232.502438,31/08/2021,12914.55,349.36,14778.12,472.44
+Fund I,Company 46,United States of America,Software,31/12/2021,2232.499698,31/08/2021,12914.55,349.36,14338.44,463.68
+Fund I,Company 46,United States of America,Software,30/09/2021,2232.499698,31/08/2021,12914.55,349.36,14088.6,398.16
+Fund I,Company 47,United States of America,Software,30/09/2023,1958.045738,05/11/2021,2186.58,104.17,3911.88,150.6
+Fund I,Company 47,United States of America,Software,30/06/2023,1774.410669,05/11/2021,2186.58,104.17,3611.28,134.4
+Fund I,Company 47,United States of America,Software,31/03/2023,1749.045659,05/11/2021,2186.58,104.17,3564,128.64
+Fund I,Company 47,United States of America,Software,31/12/2022,1689.955637,05/11/2021,2186.58,104.17,3468.72,108.6
+Fund I,Company 47,United States of America,Software,30/09/2022,671.745253,05/11/2021,2186.58,104.17,1880.88,104.52
+Fund I,Company 47,United States of America,Software,30/06/2022,797.0503006,05/11/2021,2186.58,104.17,2082.72,100.08
+Fund I,Company 47,United States of America,Software,31/03/2022,950.0010374,01/11/2021,2186.58,104.17,2368.8,113.88
+Fund I,Company 47,United States of America,Software,31/12/2021,949.9998716,01/11/2021,2186.58,104.17,2384.16,113.64
+Fund I,Company 48,United States of America,Software,30/09/2023,2981.386124,22/04/2021,11638.42679,467.4569722,16500,700.44
+Fund I,Company 48,United States of America,Software,30/06/2023,2565.665967,22/04/2021,11638.42679,467.4569722,14874.72,665.64
+Fund I,Company 48,United States of America,Software,31/03/2023,2551.130961,22/04/2021,11638.42679,467.4569722,14872.8,646.8
+Fund I,Company 48,United States of America,Software,31/12/2022,2422.120913,22/04/2021,11638.42679,467.4569722,14391.24,665.28
+Fund I,Company 48,United States of America,Software,30/09/2022,2253.78085,22/04/2021,11638.42679,467.4569722,13375.08,636.96
+Fund I,Company 48,United States of America,Software,30/06/2022,2520.35095,22/04/2021,11638.42679,467.4569722,14412.12,613.32
+Fund I,Company 48,United States of America,Software,31/03/2022,2232.502438,22/04/2021,11638.42679,467.4569722,13832.64,588.6
+Fund I,Company 48,United States of America,Software,31/12/2021,2232.499698,22/04/2021,11638.42679,467.4569722,13962.48,549.84
+Fund I,Company 48,United States of America,Software,30/09/2021,2232.499698,22/04/2021,11638.42679,467.4569722,13091.4,520.08
+Fund I,Company 48,United States of America,Software,30/06/2021,2232.502438,22/04/2021,11638.42679,467.4569722,12801.66,521.16
+Fund I,Company 49,United States of America,Software,30/09/2023,1725.39065,05/10/2021,7008.87,278.74,7009.68,360.24
+Fund I,Company 49,United States of America,Software,30/06/2023,1668.770629,05/10/2021,7008.87,278.74,6858.48,344.76
+Fund I,Company 49,United States of America,Software,31/03/2023,1635.995616,05/10/2021,7008.87,278.74,6766.68,335.88
+Fund I,Company 49,United States of America,Software,31/12/2022,1596.095601,05/10/2021,7008.87,278.74,6686.4,334.32
+Fund I,Company 49,United States of America,Software,30/09/2022,1713.325646,05/10/2021,7008.87,278.74,6931.32,346.56
+Fund I,Company 49,United States of America,Software,30/06/2022,1899.715716,05/10/2021,7008.87,278.74,7356.6,387.36
+Fund I,Company 49,United States of America,Software,31/03/2022,2185.002386,01/10/2021,7008.87,278.74,8129.76,338.76
+Fund I,Company 49,United States of America,Software,31/12/2021,2184.999705,01/10/2021,7008.87,278.74,8064.6,343.8
+Fund I,Company 50,United States of America,Software,30/09/2023,1419.205534,29/07/2021,2851.42,35.64,9343.8,496.08
+Fund I,Company 50,United States of America,Software,30/06/2023,1431.84054,29/07/2021,2851.42,35.64,9309,402.96
+Fund I,Company 50,United States of America,Software,31/03/2023,1363.345514,29/07/2021,2851.42,35.64,2709.84,88.8
+Fund I,Company 50,United States of America,Software,31/12/2022,1363.345514,29/07/2021,2851.42,35.64,2709.84,60.72
+Fund I,Company 50,United States of America,Software,30/09/2022,967.4803656,29/07/2021,2851.42,35.64,2216.04,50.16
+Fund I,Company 50,United States of America,Software,30/06/2022,1295.040488,29/07/2021,2851.42,35.64,2605.2,38.4
+Fund I,Company 50,United States of America,Software,31/03/2022,1733.751893,29/07/2021,2851.42,35.64,3096.84,35.16
+Fund I,Company 50,United States of America,Software,30/09/2021,1733.749766,29/07/2021,2851.42,35.64,3111.6,38.88

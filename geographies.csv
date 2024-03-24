@@ -1,0 +1,251 @@
+﻿country,region,continent
+Scotland,Northern Europe,Europe
+Aland Islands,Northern Europe,Europe
+Denmark,Northern Europe,Europe
+Estonia,Northern Europe,Europe
+Faroe Islands,Northern Europe,Europe
+Finland,Northern Europe,Europe
+Guernsey,Northern Europe,Europe
+Isle of Man,Northern Europe,Europe
+Ireland,Northern Europe,Europe
+Iceland,Northern Europe,Europe
+Jersey,Northern Europe,Europe
+Latvia,Northern Europe,Europe
+Lithuania,Northern Europe,Europe
+Norway,Northern Europe,Europe
+United Kingdom,Northern Europe,Europe
+Sweden,Northern Europe,Europe
+Svalbard and Jan Mayen,Northern Europe,Europe
+Afghanistan,Southern Asia,Asia
+Bangladesh,Southern Asia,Asia
+Bhutan,Southern Asia,Asia
+British Indian Ocean Territory,Southern Asia,Asia
+India,Southern Asia,Asia
+Iran (Islamic Republic of),Southern Asia,Asia
+Maldives,Southern Asia,Asia
+Nepal,Southern Asia,Asia
+Pakistan,Southern Asia,Asia
+Sri Lanka,Southern Asia,Asia
+South Africa,Southern Africa,Africa
+Botswana,Southern Africa,Africa
+Lesotho,Southern Africa,Africa
+Swaziland,Southern Africa,Africa
+Albania,Southern Europe,Europe
+Andorra,Southern Europe,Europe
+Bosnia and Herzegovina,Southern Europe,Europe
+Croatia,Southern Europe,Europe
+Spain,Southern Europe,Europe
+Gibraltar,Southern Europe,Europe
+Greece,Southern Europe,Europe
+Italy,Southern Europe,Europe
+Macedonia (the former Yugoslav Republic of),Southern Europe,Europe
+Malta,Southern Europe,Europe
+Montenegro,Southern Europe,Europe
+Portugal,Southern Europe,Europe
+San Marino,Southern Europe,Europe
+Holy See,Southern Europe,Europe
+Serbia,Southern Europe,Europe
+Slovenia,Southern Europe,Europe
+Algeria,Northern Africa,Africa
+Egypt,Northern Africa,Africa
+Libya,Northern Africa,Africa
+Morocco,Northern Africa,Africa
+Western Sahara,Northern Africa,Africa
+Sudan,Northern Africa,Africa
+Tunisia,Northern Africa,Africa
+Germany,Western Europe,Europe
+Austria,Western Europe,Europe
+Belgium,Western Europe,Europe
+France,Western Europe,Europe
+Liechtenstein,Western Europe,Europe
+Luxembourg,Western Europe,Europe
+Monaco,Western Europe,Europe
+Netherlands,Western Europe,Europe
+Switzerland,Western Europe,Europe
+Angola,Central Africa,Africa
+Cameroon,Central Africa,Africa
+Central African Republic,Central Africa,Africa
+Congo,Central Africa,Africa
+Congo (Democratic Republic of the),Central Africa,Africa
+Gabon,Central Africa,Africa
+Equatorial Guinea,Central Africa,Africa
+Sao Tome and Principe,Central Africa,Africa
+Chad,Central Africa,Africa
+Anguilla,Caribbean,America
+Antigua and Barbuda,Caribbean,America
+Aruba,Caribbean,America
+Bahamas,Caribbean,America
+Barbados,Caribbean,America
+"Bonaire, Sint Eustatius and Saba",Caribbean,America
+Cayman Islands,Caribbean,America
+Cuba,Caribbean,America
+Netherlands Antilles,Caribbean,America
+Curacao,Caribbean,America
+Dominican Republic,Caribbean,America
+Dominica,Caribbean,America
+Grenada,Caribbean,America
+Guadeloupe,Caribbean,America
+Haiti,Caribbean,America
+Virgin Islands (British),Caribbean,America
+Virgin Islands (U.S.),Caribbean,America
+Jamaica,Caribbean,America
+Martinique,Caribbean,America
+Montserrat,Caribbean,America
+Puerto Rico,Caribbean,America
+Saint Barthelemy,Caribbean,America
+Saint Kitts and Nevis,Caribbean,America
+Saint Vincent and the Grenadines,Caribbean,America
+Saint Lucia,Caribbean,America
+Trinidad and Tobago,Caribbean,America
+Turks and Caicos Islands,Caribbean,America
+Antarctica,Antarctica region,Antarctica zone
+Bouvet Island,Antarctica region,Antarctica zone
+Heard Island and McDonald Islands,Antarctica region,Antarctica zone
+French Southern Territories,Antarctica region,Antarctica zone
+Saudi Arabia,Middle East (Western Asia),Asia
+Armenia,Middle East (Western Asia),Asia
+Azerbaijan,Middle East (Western Asia),Asia
+Bahrain,Middle East (Western Asia),Asia
+Cyprus,Middle East (Western Asia),Asia
+United Arab Emirates,Middle East (Western Asia),Asia
+Georgia,Middle East (Western Asia),Asia
+Iraq,Middle East (Western Asia),Asia
+Israel,Middle East (Western Asia),Asia
+Jordan,Middle East (Western Asia),Asia
+Kuwait,Middle East (Western Asia),Asia
+Lebanon,Middle East (Western Asia),Asia
+Oman,Middle East (Western Asia),Asia
+"Palestine, State of",Middle East (Western Asia),Asia
+Qatar,Middle East (Western Asia),Asia
+Syrian Arab Republic,Middle East (Western Asia),Asia
+Turkey,Middle East (Western Asia),Asia
+Yemen,Middle East (Western Asia),Asia
+Argentina,South America,America
+Bolivia (Plurinational State of),South America,America
+Brazil,South America,America
+Chile,South America,America
+Colombia,South America,America
+South Georgia and the South Sandwich Islands,South America,America
+Ecuador,South America,America
+Falkland Islands (Malvinas),South America,America
+Guyana,South America,America
+French Guiana,South America,America
+Paraguay,South America,America
+Peru,South America,America
+Saint Martin (French part),South America,America
+Sint Maarten (Dutch part),South America,America
+Suriname,South America,America
+Uruguay,South America,America
+Venezuela (Bolivarian Republic of),South America,America
+Australia,Australia and New-Zealand,Oceania
+Norfolk Island,Australia and New-Zealand,Oceania
+New Zealand,Australia and New-Zealand,Oceania
+Belarus,Eastern Europe,Europe
+Bulgaria,Eastern Europe,Europe
+Hungary,Eastern Europe,Europe
+Moldova (Republic of),Eastern Europe,Europe
+Poland,Eastern Europe,Europe
+Romania,Eastern Europe,Europe
+Russian Federation,Eastern Europe,Europe
+Slovakia,Eastern Europe,Europe
+Czech Republic,Eastern Europe,Europe
+Ukraine,Eastern Europe,Europe
+Belize,Central America,America
+Costa Rica,Central America,America
+El Salvador,Central America,America
+Guatemala,Central America,America
+Honduras,Central America,America
+Mexico,Central America,America
+Nicaragua,Central America,America
+Panama,Central America,America
+Benin,Western Africa,Africa
+Burkina Faso,Western Africa,Africa
+Cabo Verde,Western Africa,Africa
+Ivory coast,Western Africa,Africa
+Gambia,Western Africa,Africa
+Ghana,Western Africa,Africa
+Guinea,Western Africa,Africa
+Guinea-Bissau,Western Africa,Africa
+Liberia,Western Africa,Africa
+Mali,Western Africa,Africa
+Mauritania,Western Africa,Africa
+Niger,Western Africa,Africa
+Nigeria,Western Africa,Africa
+Senegal,Western Africa,Africa
+Sierra Leone,Western Africa,Africa
+Togo,Western Africa,Africa
+Bermuda,North America,America
+Canada,North America,America
+United States of America,North America,America
+Greenland,North America,America
+Saint Pierre and Miquelon,North America,America
+Brunei Darussalam,South-East Asia,Asia
+Cambodia,South-East Asia,Asia
+Cocos (Keeling) islands,South-East Asia,Asia
+Christmas Island,South-East Asia,Asia
+Indonesia,South-East Asia,Asia
+Lao People's Democratic Republic,South-East Asia,Asia
+Malaysia,South-East Asia,Asia
+Myanmar,South-East Asia,Asia
+Philippines,South-East Asia,Asia
+Singapore,South-East Asia,Asia
+Thailand,South-East Asia,Asia
+Timor-Leste,South-East Asia,Asia
+Viet Nam,South-East Asia,Asia
+Burundi,Eastern Africa,Africa
+Comoros,Eastern Africa,Africa
+Djibouti,Eastern Africa,Africa
+Eritrea,Eastern Africa,Africa
+Ethiopia,Eastern Africa,Africa
+Kenya,Eastern Africa,Africa
+Madagascar,Eastern Africa,Africa
+Malawi,Eastern Africa,Africa
+Mauritius,Eastern Africa,Africa
+Mayotte,Eastern Africa,Africa
+Mozambique,Eastern Africa,Africa
+Uganda,Eastern Africa,Africa
+Reunion,Eastern Africa,Africa
+Rwanda,Eastern Africa,Africa
+Seychelles,Eastern Africa,Africa
+Somalia,Eastern Africa,Africa
+South Sudan,Eastern Africa,Africa
+"Tanzania, United Republic of",Eastern Africa,Africa
+Zambia,Eastern Africa,Africa
+Zimbabwe,Eastern Africa,Africa
+China,Eastern Asia,Asia
+Korea (Republic of) - South Korea,Eastern Asia,Asia
+Korea (Democratic People's Republic of) - North Korea,Eastern Asia,Asia
+Hong Kong,Eastern Asia,Asia
+Japan,Eastern Asia,Asia
+Macao,Eastern Asia,Asia
+Mongolia,Eastern Asia,Asia
+Taiwan,Eastern Asia,Asia
+Cook Islands,Polynesia,Oceania
+Niue,Polynesia,Oceania
+Pitcairn,Polynesia,Oceania
+French Polynesia,Polynesia,Oceania
+Samoa,Polynesia,Oceania
+American Samoa,Polynesia,Oceania
+Tokelau,Polynesia,Oceania
+Tonga,Polynesia,Oceania
+Tuvalu,Polynesia,Oceania
+Wallis and Futuna,Polynesia,Oceania
+United States Minor Outlying Islands,Oceania,World
+Fiji,Melanesia,Oceania
+New Caledonia,Melanesia,Oceania
+Papua New Guinea,Melanesia,Oceania
+Solomon Islands,Melanesia,Oceania
+Vanuatu,Melanesia,Oceania
+Guam,Micronesia,Oceania
+Kiribati,Micronesia,Oceania
+Northern Mariana Islands,Micronesia,Oceania
+Marshall Islands,Micronesia,Oceania
+Micronesia (Federated States of),Micronesia,Oceania
+Nauru,Micronesia,Oceania
+Palau,Micronesia,Oceania
+Kazakhstan,Central Asia,Asia
+Kyrgyzstan,Central Asia,Asia
+Uzbekistan,Central Asia,Asia
+Tajikistan,Central Asia,Asia
+Turkmenistan,Central Asia,Asia
+Country TBD,Geographical area TBD,World
